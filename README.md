@@ -1,4 +1,4 @@
-# Portafolio-datos# Martín Arriaga Rodríguez | Data Analytics Portfolio
+Martín Arriaga Rodríguez | Data Analytics Portfolio
 
 Aspiring data analyst based in Malta, building practical skills in SQL, Power BI, Python and statistics. This repository collects my projects, exercises and notes as I progress through a structured 6-month learning plan.
 
