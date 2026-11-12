@@ -47,6 +47,5 @@ portafolio-datos/
 
 - 💼 LinkedIn: Martín Arriaga Rodríguez(https://www.linkedin.com/in/martín-arriaga-rodríguez-806682267)
 - ✉️ Email: Arriagamartin381@gmail.com
-- ✉️ Email: [your-email@example.com]
 
 I am open to junior data analyst, BI/reporting analyst and risk or compliance analyst opportunities in Malta and remote roles in Europe.
